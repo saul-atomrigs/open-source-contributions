@@ -8,6 +8,7 @@
 - [Docs] `async` 키워드 추가 (https://github.com/toss/slash/pull/462/files)
 - [Bugfix] `useOutsideClickEffect` 2번 호출되는 이슈 해결 (https://github.com/toss/slash/pull/451)
 - [chore] `jest coverage` 스크립트 추가하여 테스트 커버리지 계산 간편화 (https://github.com/toss/slash/pull/460)
+- [Bugfix] `non-null-assertion` 관련 Lint 에러 비활성화 (https://github.com/toss/slash/pull/487)
   
 ### **@TanStack/query**
 - [Refactor] `noop` 유틸 함수를 모노레포 내 각 유틸 함수 모음 파일로 이동 (https://github.com/TanStack/query/pull/6964)
